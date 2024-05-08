@@ -38,6 +38,9 @@ The dataset file medical_diagnoser_data.csv have the following columns:
 4. Follow the instructions provided in the notebook for data preprocessing, model training, and prediction generation.
 
 ## Results:
+The User Interface of Medical Daignoser model is built in Python Gradio and showing how the model is giving results that are Disease and Prescription based on Patient Problem.
+
+![model_interface](https://github.com/SM-Kumail-Rizvi/Deep-Learning-Medical-Diagnoser/assets/103136253/c5f42fc8-4b12-44f4-b6c4-fcc80fbdc350)
 
 
 ## Future Enhancements:
