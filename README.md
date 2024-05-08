@@ -10,7 +10,7 @@ The Medical Diagnoser is a deep learning-based project aimed at diagnosing medic
 **4. User-Friendly Interface:** Provides an intuitive interface using Gradio for healthcare professionals and patients to input symptoms and receive recommendations.
 
 ## Files:
-**medical_diagnoser.ipynb:** Jupyter Notebook containing the code for training the deep learning model and making predictions.
+**medical_diagnoser.ipynb:** Jupyter Notebook containing the code for training the deep learning model and making predictions.                                                                                                 
 **medical_diagnoser_data.csv:** CSV file containing the dataset with patient problem descriptions, corresponding diseases, and recommended prescriptions.
 
 ## Dataset Format:
