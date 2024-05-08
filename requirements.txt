@@ -1,0 +1,9 @@
+------------PYTHON PACAKGES TO INSTALL TO RUN MEDICAL DIAGNOSER CODE---------------
+
+
+!pip install pandas
+!pip install numpy
+!pip install tensorflow 
+!pip install scikit-learn
+!pip install gradio
+!pip install -U gradio
